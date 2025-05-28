@@ -1,0 +1,5 @@
+.button-white {
+    --button-text: #000000;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
