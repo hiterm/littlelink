@@ -3,3 +3,17 @@
     --button-background: #ffffff;
     --button-border: 1px solid #000000;
 }
+
+/* Hatena Blog */
+.button-hatena-blog {
+    --button-text: #333333;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
+
+/* Qiita */
+.button-qiita {
+    --button-text: #ffffff;
+    --button-background: #55c500;
+    --button-border: 1px solid #ffffff;
+}
